@@ -1,0 +1,9 @@
+####### SOUKAGORKO2@GMAIL.COM #######
+
+Analyse la page 'Enregistrer utilisateur' (http://localhost:5173/register) pour synchroniser maintenant le register du backend a celui du frontend pour permettre l'ajout de nouveaux utilisateurs
+
+###### A FAIRE
+Passe au CRUD de la table services a partir du frontend
+
+#############
+J'ai remarque que les comptes desactives arrivent a se connecter. Corrige cela pour empecher tout compte desactive a se connecter. En cas de tentative, informer a l'utilisateur: "Compte desactiver, veillez contacter l'administrateur"
